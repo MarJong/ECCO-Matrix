@@ -1,0 +1,255 @@
+Cmp-Mod V01 Created by CvPcb (2013-05-31 BZR 4019)-stable date = 27.07.2013 15:55:28
+
+BeginCmp
+TimeStamp = /51E982B1;
+Reference = F1;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E982BE;
+Reference = F2;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E987DC;
+Reference = F3;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E987E2;
+Reference = F4;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E988E4;
+Reference = F5;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E988EA;
+Reference = F6;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E98929;
+Reference = F7;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E9892F;
+Reference = F8;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E9896E;
+Reference = F9;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E98974;
+Reference = F10;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E989B2;
+Reference = F11;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E989B8;
+Reference = F12;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E989F6;
+Reference = F13;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E989FC;
+Reference = F14;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E98A3A;
+Reference = F15;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E98A40;
+Reference = F16;
+ValeurCmp = FUSE;
+IdModule  = reichelt_fuse;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E97D84;
+Reference = K1;
+ValeurCmp = CONN_POWER;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E98282;
+Reference = K2;
+ValeurCmp = CONN_OUT;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E987D6;
+Reference = K3;
+ValeurCmp = CONN_OUT;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E988DE;
+Reference = K4;
+ValeurCmp = CONN_OUT;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E98923;
+Reference = K5;
+ValeurCmp = CONN_OUT;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E98968;
+Reference = K6;
+ValeurCmp = CONN_OUT;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E989AC;
+Reference = K7;
+ValeurCmp = CONN_OUT;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E989F0;
+Reference = K8;
+ValeurCmp = CONN_OUT;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E98A34;
+Reference = K9;
+ValeurCmp = CONN_OUT;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E97D75;
+Reference = P1;
+ValeurCmp = CONN_INPUT;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E9842C;
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E98440;
+Reference = R2;
+ValeurCmp = 1M;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E97F07;
+Reference = RL1;
+ValeurCmp = FINDER-30.22;
+IdModule  = Relais_C300;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E987B5;
+Reference = RL2;
+ValeurCmp = FINDER-30.22;
+IdModule  = Relais_C300;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E988BD;
+Reference = RL3;
+ValeurCmp = FINDER-30.22;
+IdModule  = Relais_C300;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E98902;
+Reference = RL4;
+ValeurCmp = FINDER-30.22;
+IdModule  = Relais_C300;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E98947;
+Reference = RL5;
+ValeurCmp = FINDER-30.22;
+IdModule  = Relais_C300;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E9898B;
+Reference = RL6;
+ValeurCmp = FINDER-30.22;
+IdModule  = Relais_C300;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E989CF;
+Reference = RL7;
+ValeurCmp = FINDER-30.22;
+IdModule  = Relais_C300;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E98A13;
+Reference = RL8;
+ValeurCmp = FINDER-30.22;
+IdModule  = Relais_C300;
+EndCmp
+
+EndListe

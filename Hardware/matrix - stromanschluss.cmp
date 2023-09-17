@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by CvPcb (2013-05-31 BZR 4019)-stable date = 10.08.2013 16:20:18
+
+BeginCmp
+TimeStamp = /520644D9;
+Reference = P1;
+ValeurCmp = CONN_10X2;
+IdModule  = ATX_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /520646C8;
+Reference = P2;
+ValeurCmp = CONN_5;
+IdModule  = SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /520646D7;
+Reference = P3;
+ValeurCmp = Switch;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52064E6D;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+EndListe

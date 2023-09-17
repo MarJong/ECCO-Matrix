@@ -1,0 +1,346 @@
+Cmp-Mod V01 Created by CvPcb (2013-05-31 BZR 4019)-stable date = 27.07.2013 00:01:08
+
+BeginCmp
+TimeStamp = /51F2F2F2;
+Reference = K1;
+ValeurCmp = Relais;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1AFB2;
+Reference = P1;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1AFB9;
+Reference = P2;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1AFBF;
+Reference = P3;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1AF89;
+Reference = P4;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1AF8F;
+Reference = P5;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B155;
+Reference = P6;
+ValeurCmp = CS;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B176;
+Reference = P7;
+ValeurCmp = CS;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B71F;
+Reference = P8;
+ValeurCmp = CS;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B1FB;
+Reference = P9;
+ValeurCmp = CS;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B1B1;
+Reference = P10;
+ValeurCmp = CS;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B0C3;
+Reference = P11;
+ValeurCmp = schraube;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B0FE;
+Reference = P12;
+ValeurCmp = schraube;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2F11D;
+Reference = P13;
+ValeurCmp = LED;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2F117;
+Reference = P14;
+ValeurCmp = Power;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2F107;
+Reference = P15;
+ValeurCmp = Power;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2F1BE;
+Reference = P16;
+ValeurCmp = LED;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2F101;
+Reference = P17;
+ValeurCmp = Power;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1AF11;
+Reference = P18;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1AF2A;
+Reference = P19;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1AF68;
+Reference = P20;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1AF6E;
+Reference = P21;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B5E4;
+Reference = P22;
+ValeurCmp = CS;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B5F2;
+Reference = P23;
+ValeurCmp = CS;
+IdModule  = SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1BECB;
+Reference = P24;
+ValeurCmp = CS;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B5EA;
+Reference = P25;
+ValeurCmp = CS;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B829;
+Reference = P26;
+ValeurCmp = schraube;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2EFB2;
+Reference = P27;
+ValeurCmp = LED;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2F043;
+Reference = P28;
+ValeurCmp = Power;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2EFB8;
+Reference = P29;
+ValeurCmp = Master;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2EFAC;
+Reference = P30;
+ValeurCmp = Power;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1BC77;
+Reference = P31;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1BC7D;
+Reference = P32;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B6F0;
+Reference = P33;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B6F6;
+Reference = P34;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B6FC;
+Reference = P35;
+ValeurCmp = USART;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B77A;
+Reference = P36;
+ValeurCmp = CS;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B709;
+Reference = P37;
+ValeurCmp = CS;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B787;
+Reference = P38;
+ValeurCmp = CS;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1BC8C;
+Reference = P39;
+ValeurCmp = CS;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1BC92;
+Reference = P40;
+ValeurCmp = CS;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1B7EA;
+Reference = P41;
+ValeurCmp = schraube;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F1BCE3;
+Reference = P42;
+ValeurCmp = schraube;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2EF1C;
+Reference = P43;
+ValeurCmp = LED;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2EDEF;
+Reference = P44;
+ValeurCmp = LED;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2EF22;
+Reference = P45;
+ValeurCmp = Power;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2EF16;
+Reference = P46;
+ValeurCmp = Power;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2EE06;
+Reference = P47;
+ValeurCmp = Power;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /51F2EDD3;
+Reference = P48;
+ValeurCmp = Power;
+IdModule  = SIL-4;
+EndCmp
+
+EndListe
